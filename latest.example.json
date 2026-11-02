@@ -1,0 +1,10 @@
+{
+  "schema": 1,
+  "version": "4.1.12",
+  "url": "https://github.com/1968824337/vin-log-puller-releases/releases/download/v4.1.12/VehicleLogCapture-Setup-4.1.12.exe",
+  "sha256": "replace-with-sha256",
+  "size": 0,
+  "notes": "Replace with release notes.",
+  "channel": "stable",
+  "publishedAt": "2026-11-02T09:00:00+08:00"
+}
